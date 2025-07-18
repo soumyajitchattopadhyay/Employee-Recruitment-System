@@ -6,7 +6,7 @@ A web application developed using Java, JSP, and SQL to facilitate candidate reg
 ## Technologies Used
 - Java (Servlets and backend logic)
 - JSP (JavaServer Pages for frontend)
-- SQL (Database queries and management)
+- SQL++ (Oracle SQL for database queries and management)
 - JACo MP3 Player (Audio integration)
 - NetBeans 8.2 (IDE)
 
