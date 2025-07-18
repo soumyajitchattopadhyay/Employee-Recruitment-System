@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup1">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup2">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup3">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup4">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup5">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup6">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup7">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup8">
+    </Component>
+    <Menu class="java.awt.MenuBar" name="menuBar1">
+      <SubComponents>
+        <Menu class="java.awt.Menu" name="menu1">
+          <Properties>
+            <Property name="label" type="java.lang.String" value="File"/>
+          </Properties>
+        </Menu>
+        <Menu class="java.awt.Menu" name="menu2">
+          <Properties>
+            <Property name="label" type="java.lang.String" value="Edit"/>
+          </Properties>
+        </Menu>
+      </SubComponents>
+    </Menu>
+    <Menu class="java.awt.MenuBar" name="menuBar2">
+      <SubComponents>
+        <Menu class="java.awt.Menu" name="menu3">
+          <Properties>
+            <Property name="label" type="java.lang.String" value="File"/>
+          </Properties>
+        </Menu>
+        <Menu class="java.awt.Menu" name="menu4">
+          <Properties>
+            <Property name="label" type="java.lang.String" value="Edit"/>
+          </Properties>
+        </Menu>
+      </SubComponents>
+    </Menu>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup9">
+    </Component>
+    <Component class="javax.swing.JCheckBoxMenuItem" name="jCheckBoxMenuItem1">
+      <Properties>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" value="jCheckBoxMenuItem1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="0" green="ff" red="0" type="rgb"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,31,0,0,5,118"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="36" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="EMPLOYEE REGISTRATION"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="210" y="40" width="500" height="59"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic" size="18" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="E-MAIL"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="130" width="269" height="62"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="example@gmail.com"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="490" y="120" width="392" height="50"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic" size="18" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="FIRST NAME"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="180" width="269" height="63"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic" size="18" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="LAST NAME"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="240" width="269" height="54"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic" size="18" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="PASSWORD"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="300" width="270" height="51"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic" size="18" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="LOCATION"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="360" width="262" height="53"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic" size="18" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="SKILLS"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="420" width="262" height="55"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic" size="18" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="GENDER"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="470" width="262" height="54"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField2">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Ex: Jack"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField2ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="490" y="180" width="392" height="50"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField3">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Ex: Smith"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="490" y="240" width="392" height="54"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField6">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="add your skills here..."/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField6ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="490" y="420" width="391" height="55"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JPasswordField" name="jPasswordField1">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="minimum 6 characters"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jPasswordField1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="490" y="300" width="391" height="51"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="66" red="cc" type="rgb"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="178">
+            <StringItem index="0" value="&lt;select&gt;"/>
+            <StringItem index="1" value="Afganisthan"/>
+            <StringItem index="2" value="Albania"/>
+            <StringItem index="3" value="Algeria"/>
+            <StringItem index="4" value="Andorra"/>
+            <StringItem index="5" value="Argentina"/>
+            <StringItem index="6" value="Australia"/>
+            <StringItem index="7" value="Austria"/>
+            <StringItem index="8" value="Azerbaijan"/>
+            <StringItem index="9" value="Bahamas"/>
+            <StringItem index="10" value="Bahrain"/>
+            <StringItem index="11" value="Bangladesh"/>
+            <StringItem index="12" value="Barbados"/>
+            <StringItem index="13" value="Belarus"/>
+            <StringItem index="14" value="Belgium"/>
+            <StringItem index="15" value="Belize"/>
+            <StringItem index="16" value="Benin"/>
+            <StringItem index="17" value="Bhutan"/>
+            <StringItem index="18" value="Bolivia"/>
+            <StringItem index="19" value="Bosnia and Herzegovina"/>
+            <StringItem index="20" value="Botswana"/>
+            <StringItem index="21" value="Brazil"/>
+            <StringItem index="22" value="Brunei"/>
+            <StringItem index="23" value="Bulgaria"/>
+            <StringItem index="24" value="Burkina Faso"/>
+            <StringItem index="25" value="Burma"/>
+            <StringItem index="26" value="Burundi"/>
+            <StringItem index="27" value="Cambodia"/>
+            <StringItem index="28" value="Cameroon"/>
+            <StringItem index="29" value="Canada"/>
+            <StringItem index="30" value="Cape Verde"/>
+            <StringItem index="31" value="Central African Republic"/>
+            <StringItem index="32" value="Chad"/>
+            <StringItem index="33" value="Chile"/>
+            <StringItem index="34" value="China"/>
+            <StringItem index="35" value="Cambodia"/>
+            <StringItem index="36" value="Comoros"/>
+            <StringItem index="37" value="Congo"/>
+            <StringItem index="38" value="Costa Rica"/>
+            <StringItem index="39" value="Croatia"/>
+            <StringItem index="40" value="Cuba"/>
+            <StringItem index="41" value="Cyprus"/>
+            <StringItem index="42" value="Czech Republic"/>
+            <StringItem index="43" value="Denmark"/>
+            <StringItem index="44" value="Djibouti"/>
+            <StringItem index="45" value="Dominica"/>
+            <StringItem index="46" value="Dominican Republic"/>
+            <StringItem index="47" value="East Timor"/>
+            <StringItem index="48" value="Ecuador"/>
+            <StringItem index="49" value="Egypt"/>
+            <StringItem index="50" value="El Salvador"/>
+            <StringItem index="51" value="Equatorial Guinea"/>
+            <StringItem index="52" value="Eritrea"/>
+            <StringItem index="53" value="Estonia"/>
+            <StringItem index="54" value="Ethiopia"/>
+            <StringItem index="55" value="Fiji"/>
+            <StringItem index="56" value="Finland"/>
+            <StringItem index="57" value="France"/>
+            <StringItem index="58" value="Georgia"/>
+            <StringItem index="59" value="Germany"/>
+            <StringItem index="60" value="Ghana"/>
+            <StringItem index="61" value="Greece"/>
+            <StringItem index="62" value="Grenada"/>
+            <StringItem index="63" value="Guatemala"/>
+            <StringItem index="64" value="Guinea"/>
+            <StringItem index="65" value="Guyana"/>
+            <StringItem index="66" value="Haiti"/>
+            <StringItem index="67" value="Honduras"/>
+            <StringItem index="68" value="Hungary"/>
+            <StringItem index="69" value="Iceland"/>
+            <StringItem index="70" value="India"/>
+            <StringItem index="71" value="Indonesia"/>
+            <StringItem index="72" value="Iran"/>
+            <StringItem index="73" value="Iraq"/>
+            <StringItem index="74" value="Ireland"/>
+            <StringItem index="75" value="Israel"/>
+            <StringItem index="76" value="Italy"/>
+            <StringItem index="77" value="Jamaica"/>
+            <StringItem index="78" value="Japan"/>
+            <StringItem index="79" value="Jordan"/>
+            <StringItem index="80" value="Kazakhsthan"/>
+            <StringItem index="81" value="Kenya"/>
+            <StringItem index="82" value="Kiribati"/>
+            <StringItem index="83" value="North Korea"/>
+            <StringItem index="84" value="South Korea"/>
+            <StringItem index="85" value="Kuwait"/>
+            <StringItem index="86" value="Kyrgystan"/>
+            <StringItem index="87" value="Laos"/>
+            <StringItem index="88" value="Latvia"/>
+            <StringItem index="89" value="Lebanon"/>
+            <StringItem index="90" value="Lesotho"/>
+            <StringItem index="91" value="Liberia"/>
+            <StringItem index="92" value="Libya"/>
+            <StringItem index="93" value="Liechtenstein"/>
+            <StringItem index="94" value="Lithunia"/>
+            <StringItem index="95" value="Luxembourg"/>
+            <StringItem index="96" value="Macedonia"/>
+            <StringItem index="97" value="Madagascar"/>
+            <StringItem index="98" value="Malawi"/>
+            <StringItem index="99" value="Malaysia"/>
+            <StringItem index="100" value="Maldives"/>
+            <StringItem index="101" value="Mali"/>
+            <StringItem index="102" value="Malta"/>
+            <StringItem index="103" value="Marshall Islands"/>
+            <StringItem index="104" value="Mauritis"/>
+            <StringItem index="105" value="Mexico"/>
+            <StringItem index="106" value="Moldova"/>
+            <StringItem index="107" value="Monaco"/>
+            <StringItem index="108" value="Mongolia"/>
+            <StringItem index="109" value="Montenegro"/>
+            <StringItem index="110" value="Morocco"/>
+            <StringItem index="111" value="Moxambique"/>
+            <StringItem index="112" value="Namibia"/>
+            <StringItem index="113" value="Nepal"/>
+            <StringItem index="114" value="Netherlands"/>
+            <StringItem index="115" value="New Zeland"/>
+            <StringItem index="116" value="Niger"/>
+            <StringItem index="117" value="Nigeria"/>
+            <StringItem index="118" value="Norway"/>
+            <StringItem index="119" value="Oman"/>
+            <StringItem index="120" value="Pakistan"/>
+            <StringItem index="121" value="Palau"/>
+            <StringItem index="122" value="Panama"/>
+            <StringItem index="123" value="Papua New Guinea"/>
+            <StringItem index="124" value="Paraguay"/>
+            <StringItem index="125" value="Peru"/>
+            <StringItem index="126" value="Philippines"/>
+            <StringItem index="127" value="Poland"/>
+            <StringItem index="128" value="Portugal"/>
+            <StringItem index="129" value="Quatar"/>
+            <StringItem index="130" value="Romania"/>
+            <StringItem index="131" value="Russia"/>
+            <StringItem index="132" value="Rwanda"/>
+            <StringItem index="133" value="Samoa"/>
+            <StringItem index="134" value="San Marino"/>
+            <StringItem index="135" value="Saudi Arabia"/>
+            <StringItem index="136" value="Senegal"/>
+            <StringItem index="137" value="Serbia"/>
+            <StringItem index="138" value="Seychelles"/>
+            <StringItem index="139" value="Sierra Leone"/>
+            <StringItem index="140" value="Singapore"/>
+            <StringItem index="141" value="Slovakia"/>
+            <StringItem index="142" value="Slovenia"/>
+            <StringItem index="143" value="Solomon Islands"/>
+            <StringItem index="144" value="Somalia"/>
+            <StringItem index="145" value="South Africa"/>
+            <StringItem index="146" value="Spain"/>
+            <StringItem index="147" value="Sri Lanka"/>
+            <StringItem index="148" value="Sudan"/>
+            <StringItem index="149" value="Suriname"/>
+            <StringItem index="150" value="Swaziland"/>
+            <StringItem index="151" value="Sweden"/>
+            <StringItem index="152" value="Swtzerland"/>
+            <StringItem index="153" value="Syria"/>
+            <StringItem index="154" value="Tajikistan"/>
+            <StringItem index="155" value="Tanzania"/>
+            <StringItem index="156" value="Thailand"/>
+            <StringItem index="157" value="Togo"/>
+            <StringItem index="158" value="Tonga"/>
+            <StringItem index="159" value="Trinidad and Tobago"/>
+            <StringItem index="160" value="Tunisia"/>
+            <StringItem index="161" value="Turkey"/>
+            <StringItem index="162" value="Turkmenistan"/>
+            <StringItem index="163" value="Tuvalu"/>
+            <StringItem index="164" value="Uganda"/>
+            <StringItem index="165" value="Ukraine"/>
+            <StringItem index="166" value="United Arab Emirates"/>
+            <StringItem index="167" value="United Kingdom"/>
+            <StringItem index="168" value="United States of America"/>
+            <StringItem index="169" value="Uruguway"/>
+            <StringItem index="170" value="Uzbekistan"/>
+            <StringItem index="171" value="Vanatu"/>
+            <StringItem index="172" value="Vatican City"/>
+            <StringItem index="173" value="Venezuela"/>
+            <StringItem index="174" value="Vietnam"/>
+            <StringItem index="175" value="Yemen"/>
+            <StringItem index="176" value="Zambia"/>
+            <StringItem index="177" value="Zimbabwe"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox1ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="490" y="360" width="391" height="53"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="SUBMIT"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="800" y="580" width="84" height="32"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox2">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value=""/>
+            <StringItem index="1" value="Male"/>
+            <StringItem index="2" value="Female"/>
+            <StringItem index="3" value="Prefer not to say"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="490" y="490" width="102" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic" size="18" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="INDUSTRY"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="520" width="262" height="49"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField4">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField4ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="490" y="520" width="391" height="49"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel11">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\dell\Downloads\Handshake_Outline.png"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="-60" y="540" width="540" height="250"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel12">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/employee/pic2.jpg"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jLabel12"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="-30" y="-490" width="1650" height="1290"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
